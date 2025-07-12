@@ -191,6 +191,14 @@ footer {
   transform: translateX(5px);
 }
 
+.project a {
+  text-decoration: none;
+  color: white;
+  background-color: #1a75cf;
+  padding: 10px 15px;
+  border-radius: 15px;
+}
+
 .project a:hover {
   color: black;
   background-color: #3399ff;
